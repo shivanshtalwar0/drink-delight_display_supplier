@@ -1,10 +1,11 @@
 package com.cg.drinkanddelight.service;
 
 import com.cg.drinkanddelight.bean.Supplier;
+import com.cg.drinkanddelight.dao.SupplierDao;
 import com.cg.drinkanddelight.dao.SupplierDaoImpl;
 
 public class SupplierService {
-    SupplierDaoImpl supplierDao;
+    SupplierDao supplierDao;
 
     public SupplierService() {
         supplierDao = new SupplierDaoImpl();
