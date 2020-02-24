@@ -21,7 +21,7 @@ public class AppUi {
         initUi();
     }
 
-    public void initUi() throws IOException, InvalidUserIdException {
+    public void initUi() throws IOException{
 
         boolean loopControl = true;
         long supplierId;
@@ -65,9 +65,7 @@ public class AppUi {
                         loopControl = false;
                 }
             }
-        } catch (InvalidUserIdException e) {
-            System.out.println(e.toString());
-        } catch (InvalidInputException e) {
+        } catch (InvalidUserIdException | InvalidInputException e) {
             System.out.println(e.toString());
         } finally {
             try {
