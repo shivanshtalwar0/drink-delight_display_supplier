@@ -1,0 +1,25 @@
+
+Xsquid:S11419"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8÷Ã°‡.
+Xsquid:S1141 "5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ûœ¶°‡.
+[
+squid:S106/"9Replace this use of System.out or System.err by a logger.(ùÍ³³ıÿÿÿÿ8î¶Ñ¯‡.
+bsquid:S2147F"DCombine this catch with the one at line 68, which has the same body.(…æà8…´½°‡.
+V
+squid:S1063"9Replace this use of System.out or System.err by a logger.(€ıÈ€8î¶Ñ¯‡.
+W"squid:SwitchLastCaseIsDefaultCheck&""Add a default case to this switch.(¨ÕÉ8©’¾¯‡.
+Xsquid:S1141)"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8÷Ã°‡.
+V
+squid:S106("9Replace this use of System.out or System.err by a logger.(ƒüôİ8î¶Ñ¯‡.
+V
+squid:S106E"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8‡‰Ÿ°‡.
+V
+squid:S106G"9Replace this use of System.out or System.err by a logger.(ìÍ¦‡8…´½°‡.
+V
+squid:S1061"9Replace this use of System.out or System.err by a logger.(Í«†ï8î¶Ñ¯‡.
+V
+squid:S1068"9Replace this use of System.out or System.err by a logger.(ƒüôİ8î¶Ñ¯‡.
+Hsquid:S00108L")Either remove or fill this block of code.(ï­£Ä8É­Ÿ°‡.
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(êîÅ×üÿÿÿÿ8¸öÜ¯‡.
+[
+squid:S106>"9Replace this use of System.out or System.err by a logger.(§†¤ıüÿÿÿÿ8ÌÔ¯‡.
